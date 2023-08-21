@@ -1,0 +1,9 @@
+{
+    "app_name": "Default-title",
+    "app_owner": "Default: Adil",
+    "app_version": "1.0.0 --Default",
+    "security_credentials": {
+        "login_status": true,
+        "email": "admin@admin.com"
+    }
+}

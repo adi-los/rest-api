@@ -1,7 +1,7 @@
 {
-    "app_name": "Prod-title",
-    "app_owner": "Production: Adil",
-    "app_version": "1.0.0 --Prod",
+    "app_name": "Dev-title",
+    "app_owner": "Developper: Adil",
+    "app_version": "1.0.0 --Dev",
     "security_credentials": {
         "login_status": true,
         "email": "admin@admin.com"

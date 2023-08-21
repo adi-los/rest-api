@@ -1,0 +1,6 @@
+{
+    "security_credentials": {
+        "username": "enc-user",
+        "password": "enc-password"
+    }
+}
